@@ -1,0 +1,2 @@
+
+string parseName(stringstream& in);
